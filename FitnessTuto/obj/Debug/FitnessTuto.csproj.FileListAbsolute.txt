@@ -1,0 +1,144 @@
+C:\Users\admin\NET\FitnessTuto\FitnessTuto\bin\Debug\FitnessTuto.exe.config
+C:\Users\admin\NET\FitnessTuto\FitnessTuto\bin\Debug\FitnessTuto.exe
+C:\Users\admin\NET\FitnessTuto\FitnessTuto\bin\Debug\FitnessTuto.pdb
+C:\Users\admin\NET\FitnessTuto\FitnessTuto\bin\Debug\Guna.UI2.dll
+C:\Users\admin\NET\FitnessTuto\FitnessTuto\obj\Debug\FitnessTuto.csproj.AssemblyReference.cache
+C:\Users\admin\NET\FitnessTuto\FitnessTuto\obj\Debug\FitnessTuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\NET\FitnessTuto\FitnessTuto\obj\Debug\FitnessTuto.Properties.Resources.resources
+C:\Users\admin\NET\FitnessTuto\FitnessTuto\obj\Debug\FitnessTuto.csproj.GenerateResource.cache
+C:\Users\admin\NET\FitnessTuto\FitnessTuto\obj\Debug\FitnessTuto.csproj.CoreCompileInputs.cache
+C:\Users\admin\NET\FitnessTuto\FitnessTuto\obj\Debug\FitnessTuto.csproj.CopyComplete
+C:\Users\admin\NET\FitnessTuto\FitnessTuto\obj\Debug\FitnessTuto.exe
+C:\Users\admin\NET\FitnessTuto\FitnessTuto\obj\Debug\FitnessTuto.pdb
+C:\Users\admin\NET\FitnessTuto\FitnessTuto\obj\Debug\FitnessTuto.Billing.resources
+C:\Users\admin\NET\FitnessTuto\FitnessTuto\obj\Debug\FitnessTuto.Memberships.resources
+C:\Users\admin\NET\FitnessTuto\FitnessTuto\obj\Debug\FitnessTuto.Receptionists.resources
+C:\Users\admin\NET\FitnessTuto\FitnessTuto\obj\Debug\FitnessTuto.Coachs.resources
+C:\Users\admin\NET\FitnessTuto\FitnessTuto\obj\Debug\FitnessTuto.Members.resources
+C:\Users\admin\NET\FitnessTuto\FitnessTuto\obj\Debug\FitnessTuto.Login.resources
+C:\Users\admin\NET\FitnessTuto - Copy\FitnessTuto\bin\Debug\FitnessTuto.exe.config
+C:\Users\admin\NET\FitnessTuto - Copy\FitnessTuto\bin\Debug\FitnessTuto.exe
+C:\Users\admin\NET\FitnessTuto - Copy\FitnessTuto\bin\Debug\FitnessTuto.pdb
+C:\Users\admin\NET\FitnessTuto - Copy\FitnessTuto\bin\Debug\Guna.UI2.dll
+C:\Users\admin\NET\FitnessTuto - Copy\FitnessTuto\obj\Debug\FitnessTuto.csproj.AssemblyReference.cache
+C:\Users\admin\NET\FitnessTuto - Copy\FitnessTuto\obj\Debug\FitnessTuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\NET\FitnessTuto - Copy\FitnessTuto\obj\Debug\FitnessTuto.Billing.resources
+C:\Users\admin\NET\FitnessTuto - Copy\FitnessTuto\obj\Debug\FitnessTuto.Coachs.resources
+C:\Users\admin\NET\FitnessTuto - Copy\FitnessTuto\obj\Debug\FitnessTuto.Login.resources
+C:\Users\admin\NET\FitnessTuto - Copy\FitnessTuto\obj\Debug\FitnessTuto.Members.resources
+C:\Users\admin\NET\FitnessTuto - Copy\FitnessTuto\obj\Debug\FitnessTuto.Memberships.resources
+C:\Users\admin\NET\FitnessTuto - Copy\FitnessTuto\obj\Debug\FitnessTuto.Properties.Resources.resources
+C:\Users\admin\NET\FitnessTuto - Copy\FitnessTuto\obj\Debug\FitnessTuto.Receptionists.resources
+C:\Users\admin\NET\FitnessTuto - Copy\FitnessTuto\obj\Debug\FitnessTuto.csproj.GenerateResource.cache
+C:\Users\admin\NET\FitnessTuto - Copy\FitnessTuto\obj\Debug\FitnessTuto.csproj.CoreCompileInputs.cache
+C:\Users\admin\NET\FitnessTuto - Copy\FitnessTuto\obj\Debug\FitnessTuto.csproj.CopyComplete
+C:\Users\admin\NET\FitnessTuto - Copy\FitnessTuto\obj\Debug\FitnessTuto.exe
+C:\Users\admin\NET\FitnessTuto - Copy\FitnessTuto\obj\Debug\FitnessTuto.pdb
+C:\Users\admin\NET\FitnessTuto - Gym\FitnessTuto\bin\Debug\FitnessTuto.exe.config
+C:\Users\admin\NET\FitnessTuto - Gym\FitnessTuto\bin\Debug\FitnessTuto.exe
+C:\Users\admin\NET\FitnessTuto - Gym\FitnessTuto\bin\Debug\FitnessTuto.pdb
+C:\Users\admin\NET\FitnessTuto - Gym\FitnessTuto\bin\Debug\Guna.UI2.dll
+C:\Users\admin\NET\FitnessTuto - Gym\FitnessTuto\obj\Debug\FitnessTuto.csproj.AssemblyReference.cache
+C:\Users\admin\NET\FitnessTuto - Gym\FitnessTuto\obj\Debug\FitnessTuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\NET\FitnessTuto - Gym\FitnessTuto\obj\Debug\FitnessTuto.Billing.resources
+C:\Users\admin\NET\FitnessTuto - Gym\FitnessTuto\obj\Debug\FitnessTuto.Coachs.resources
+C:\Users\admin\NET\FitnessTuto - Gym\FitnessTuto\obj\Debug\FitnessTuto.Login.resources
+C:\Users\admin\NET\FitnessTuto - Gym\FitnessTuto\obj\Debug\FitnessTuto.Members.resources
+C:\Users\admin\NET\FitnessTuto - Gym\FitnessTuto\obj\Debug\FitnessTuto.Memberships.resources
+C:\Users\admin\NET\FitnessTuto - Gym\FitnessTuto\obj\Debug\FitnessTuto.Properties.Resources.resources
+C:\Users\admin\NET\FitnessTuto - Gym\FitnessTuto\obj\Debug\FitnessTuto.Receptionists.resources
+C:\Users\admin\NET\FitnessTuto - Gym\FitnessTuto\obj\Debug\FitnessTuto.csproj.GenerateResource.cache
+C:\Users\admin\NET\FitnessTuto - Gym\FitnessTuto\obj\Debug\FitnessTuto.csproj.CoreCompileInputs.cache
+C:\Users\admin\NET\FitnessTuto - Gym\FitnessTuto\obj\Debug\FitnessTuto.csproj.CopyComplete
+C:\Users\admin\NET\FitnessTuto - Gym\FitnessTuto\obj\Debug\FitnessTuto.exe
+C:\Users\admin\NET\FitnessTuto - Gym\FitnessTuto\obj\Debug\FitnessTuto.pdb
+C:\Users\admin\NET\FitnessTuto - GY\FitnessTuto\bin\Debug\FitnessTuto.exe.config
+C:\Users\admin\NET\FitnessTuto - GY\FitnessTuto\bin\Debug\FitnessTuto.exe
+C:\Users\admin\NET\FitnessTuto - GY\FitnessTuto\bin\Debug\FitnessTuto.pdb
+C:\Users\admin\NET\FitnessTuto - GY\FitnessTuto\bin\Debug\Guna.UI2.dll
+C:\Users\admin\NET\FitnessTuto - GY\FitnessTuto\obj\Debug\FitnessTuto.csproj.AssemblyReference.cache
+C:\Users\admin\NET\FitnessTuto - GY\FitnessTuto\obj\Debug\FitnessTuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\NET\FitnessTuto - GY\FitnessTuto\obj\Debug\FitnessTuto.Billing.resources
+C:\Users\admin\NET\FitnessTuto - GY\FitnessTuto\obj\Debug\FitnessTuto.Coachs.resources
+C:\Users\admin\NET\FitnessTuto - GY\FitnessTuto\obj\Debug\FitnessTuto.Login.resources
+C:\Users\admin\NET\FitnessTuto - GY\FitnessTuto\obj\Debug\FitnessTuto.Members.resources
+C:\Users\admin\NET\FitnessTuto - GY\FitnessTuto\obj\Debug\FitnessTuto.Memberships.resources
+C:\Users\admin\NET\FitnessTuto - GY\FitnessTuto\obj\Debug\FitnessTuto.Properties.Resources.resources
+C:\Users\admin\NET\FitnessTuto - GY\FitnessTuto\obj\Debug\FitnessTuto.Receptionists.resources
+C:\Users\admin\NET\FitnessTuto - GY\FitnessTuto\obj\Debug\FitnessTuto.csproj.GenerateResource.cache
+C:\Users\admin\NET\FitnessTuto - GY\FitnessTuto\obj\Debug\FitnessTuto.csproj.CoreCompileInputs.cache
+C:\Users\admin\NET\FitnessTuto - GY\FitnessTuto\obj\Debug\FitnessTuto.csproj.CopyComplete
+C:\Users\admin\NET\FitnessTuto - GY\FitnessTuto\obj\Debug\FitnessTuto.exe
+C:\Users\admin\NET\FitnessTuto - GY\FitnessTuto\obj\Debug\FitnessTuto.pdb
+C:\Users\admin\NET\FitnessTuto - G\FitnessTuto\bin\Debug\FitnessTuto.exe.config
+C:\Users\admin\NET\FitnessTuto - G\FitnessTuto\bin\Debug\FitnessTuto.exe
+C:\Users\admin\NET\FitnessTuto - G\FitnessTuto\bin\Debug\FitnessTuto.pdb
+C:\Users\admin\NET\FitnessTuto - G\FitnessTuto\bin\Debug\Guna.UI2.dll
+C:\Users\admin\NET\FitnessTuto - G\FitnessTuto\obj\Debug\FitnessTuto.csproj.AssemblyReference.cache
+C:\Users\admin\NET\FitnessTuto - G\FitnessTuto\obj\Debug\FitnessTuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\NET\FitnessTuto - G\FitnessTuto\obj\Debug\FitnessTuto.Billing.resources
+C:\Users\admin\NET\FitnessTuto - G\FitnessTuto\obj\Debug\FitnessTuto.Coachs.resources
+C:\Users\admin\NET\FitnessTuto - G\FitnessTuto\obj\Debug\FitnessTuto.Login.resources
+C:\Users\admin\NET\FitnessTuto - G\FitnessTuto\obj\Debug\FitnessTuto.Members.resources
+C:\Users\admin\NET\FitnessTuto - G\FitnessTuto\obj\Debug\FitnessTuto.Memberships.resources
+C:\Users\admin\NET\FitnessTuto - G\FitnessTuto\obj\Debug\FitnessTuto.Properties.Resources.resources
+C:\Users\admin\NET\FitnessTuto - G\FitnessTuto\obj\Debug\FitnessTuto.Receptionists.resources
+C:\Users\admin\NET\FitnessTuto - G\FitnessTuto\obj\Debug\FitnessTuto.csproj.GenerateResource.cache
+C:\Users\admin\NET\FitnessTuto - G\FitnessTuto\obj\Debug\FitnessTuto.csproj.CoreCompileInputs.cache
+C:\Users\admin\NET\FitnessTuto - G\FitnessTuto\obj\Debug\FitnessTuto.csproj.CopyComplete
+C:\Users\admin\NET\FitnessTuto - G\FitnessTuto\obj\Debug\FitnessTuto.exe
+C:\Users\admin\NET\FitnessTuto - G\FitnessTuto\obj\Debug\FitnessTuto.pdb
+C:\Users\admin\NET\FitnessTuto - G - Copy (2)\FitnessTuto\bin\Debug\FitnessTuto.exe.config
+C:\Users\admin\NET\FitnessTuto - G - Copy (2)\FitnessTuto\bin\Debug\FitnessTuto.exe
+C:\Users\admin\NET\FitnessTuto - G - Copy (2)\FitnessTuto\bin\Debug\FitnessTuto.pdb
+C:\Users\admin\NET\FitnessTuto - G - Copy (2)\FitnessTuto\bin\Debug\Guna.UI2.dll
+C:\Users\admin\NET\FitnessTuto - G - Copy (2)\FitnessTuto\obj\Debug\FitnessTuto.csproj.AssemblyReference.cache
+C:\Users\admin\NET\FitnessTuto - G - Copy (2)\FitnessTuto\obj\Debug\FitnessTuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\NET\FitnessTuto - G - Copy (2)\FitnessTuto\obj\Debug\FitnessTuto.Billing.resources
+C:\Users\admin\NET\FitnessTuto - G - Copy (2)\FitnessTuto\obj\Debug\FitnessTuto.Coachs.resources
+C:\Users\admin\NET\FitnessTuto - G - Copy (2)\FitnessTuto\obj\Debug\FitnessTuto.Login.resources
+C:\Users\admin\NET\FitnessTuto - G - Copy (2)\FitnessTuto\obj\Debug\FitnessTuto.Members.resources
+C:\Users\admin\NET\FitnessTuto - G - Copy (2)\FitnessTuto\obj\Debug\FitnessTuto.Memberships.resources
+C:\Users\admin\NET\FitnessTuto - G - Copy (2)\FitnessTuto\obj\Debug\FitnessTuto.Properties.Resources.resources
+C:\Users\admin\NET\FitnessTuto - G - Copy (2)\FitnessTuto\obj\Debug\FitnessTuto.Receptionists.resources
+C:\Users\admin\NET\FitnessTuto - G - Copy (2)\FitnessTuto\obj\Debug\FitnessTuto.csproj.GenerateResource.cache
+C:\Users\admin\NET\FitnessTuto - G - Copy (2)\FitnessTuto\obj\Debug\FitnessTuto.csproj.CoreCompileInputs.cache
+C:\Users\admin\NET\FitnessTuto - G - Copy (2)\FitnessTuto\obj\Debug\FitnessTuto.csproj.CopyComplete
+C:\Users\admin\NET\FitnessTuto - G - Copy (2)\FitnessTuto\obj\Debug\FitnessTuto.exe
+C:\Users\admin\NET\FitnessTuto - G - Copy (2)\FitnessTuto\obj\Debug\FitnessTuto.pdb
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy\FitnessTuto\bin\Debug\FitnessTuto.exe.config
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy\FitnessTuto\bin\Debug\FitnessTuto.exe
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy\FitnessTuto\bin\Debug\FitnessTuto.pdb
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy\FitnessTuto\bin\Debug\Guna.UI2.dll
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy\FitnessTuto\obj\Debug\FitnessTuto.csproj.AssemblyReference.cache
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy\FitnessTuto\obj\Debug\FitnessTuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy\FitnessTuto\obj\Debug\FitnessTuto.Billing.resources
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy\FitnessTuto\obj\Debug\FitnessTuto.Coachs.resources
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy\FitnessTuto\obj\Debug\FitnessTuto.Login.resources
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy\FitnessTuto\obj\Debug\FitnessTuto.Members.resources
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy\FitnessTuto\obj\Debug\FitnessTuto.Memberships.resources
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy\FitnessTuto\obj\Debug\FitnessTuto.Properties.Resources.resources
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy\FitnessTuto\obj\Debug\FitnessTuto.Receptionists.resources
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy\FitnessTuto\obj\Debug\FitnessTuto.csproj.GenerateResource.cache
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy\FitnessTuto\obj\Debug\FitnessTuto.csproj.CoreCompileInputs.cache
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy\FitnessTuto\obj\Debug\FitnessTuto.csproj.CopyComplete
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy\FitnessTuto\obj\Debug\FitnessTuto.exe
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy\FitnessTuto\obj\Debug\FitnessTuto.pdb
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy - Copy\FitnessTuto\bin\Debug\FitnessTuto.exe.config
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy - Copy\FitnessTuto\bin\Debug\FitnessTuto.exe
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy - Copy\FitnessTuto\bin\Debug\FitnessTuto.pdb
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy - Copy\FitnessTuto\bin\Debug\Guna.UI2.dll
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy - Copy\FitnessTuto\obj\Debug\FitnessTuto.csproj.AssemblyReference.cache
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy - Copy\FitnessTuto\obj\Debug\FitnessTuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy - Copy\FitnessTuto\obj\Debug\FitnessTuto.Billing.resources
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy - Copy\FitnessTuto\obj\Debug\FitnessTuto.Coachs.resources
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy - Copy\FitnessTuto\obj\Debug\FitnessTuto.Login.resources
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy - Copy\FitnessTuto\obj\Debug\FitnessTuto.Members.resources
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy - Copy\FitnessTuto\obj\Debug\FitnessTuto.Memberships.resources
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy - Copy\FitnessTuto\obj\Debug\FitnessTuto.Properties.Resources.resources
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy - Copy\FitnessTuto\obj\Debug\FitnessTuto.Receptionists.resources
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy - Copy\FitnessTuto\obj\Debug\FitnessTuto.csproj.GenerateResource.cache
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy - Copy\FitnessTuto\obj\Debug\FitnessTuto.csproj.CoreCompileInputs.cache
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy - Copy\FitnessTuto\obj\Debug\FitnessTuto.csproj.CopyComplete
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy - Copy\FitnessTuto\obj\Debug\FitnessTuto.exe
+C:\Users\admin\NET\FitnessTuto - G - Copy (2) - Copy - Copy\FitnessTuto\obj\Debug\FitnessTuto.pdb
